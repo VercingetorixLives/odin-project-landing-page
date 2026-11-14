@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+.dark {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+.grey {
+    background-color: #E5E7EB;
+}
+.white {
+    background-color: white;
+}
+img {
+    height: 200px;
+    width: auto;
+}
