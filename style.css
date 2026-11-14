@@ -132,6 +132,7 @@ button {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    border-radius: 5px;
 }
 .action {
     display:flex;
